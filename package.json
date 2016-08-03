@@ -1,0 +1,32 @@
+{
+    "name": "formatted-string",
+    "version": "1.0.0",
+    "description": "Gives you a formatted string to print based on a given key-value pair/object.",
+    "main": "index.js",
+    "scripts": {
+        "test": "xo && ava"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/IAmAnubhavSaini/formatted-string.git"
+    },
+    "keywords": [
+        "formatted-string",
+        "string",
+        "format",
+        "javascript"
+    ],
+    "author": "Anubhav Saini <IAmAnubhavSaini@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/IAmAnubhavSaini/formatted-string/issues"
+    },
+    "homepage": "https://github.com/IAmAnubhavSaini/formatted-string#readme",
+    "devDependencies": {
+        "ava": "^0.15.2",
+        "xo": "^0.16.0"
+    },
+    "xo": {
+        "space": 4
+    }
+}
