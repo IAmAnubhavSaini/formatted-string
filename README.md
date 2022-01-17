@@ -2,12 +2,11 @@
 
 Formatting a string based upon the object passed.
 
-## Changes
-
-### v2
+## Features
 
 - uses typescript
-- throws syntax error if 
+
+## usage
 
 ```
 var str = formatted("{a} is {b}; {b} is {a}", {a:'red', b: 'blue'});
@@ -20,4 +19,4 @@ console.log(str);
 
 ## License
 
-MIT &copy; Anubhav Saini 2016
+MIT &copy; Anubhav Saini 2016-2022
